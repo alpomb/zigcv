@@ -20,11 +20,11 @@
             .hash = "12209e6bc3b59b3d0abd300d0df04b7d8151c8d9d6edf8ea450e3d6589597f9c5d2c",
         },
         .opencv = .{
-            .url = "https://github.com/opencv/opencv#4.11.0",
+            .url = "git+https://github.com/opencv/opencv#4.11.0",
             .hash = "122020210f81d631695cde9340e357c7e05f617448c404f21fec505ef373f9601784",
         },
         .opencv_contrib = .{
-            .url = "https://github.com/opencv/opencv_contrib#4.11.0",
+            .url = "git+https://github.com/opencv/opencv_contrib#4.11.0",
             .hash = "1220bb9a6f65ce5f0f9b576ca028579231ab333509c9c6d9b865492e54abcfe8c460",
         },
     },
