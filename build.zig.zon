@@ -23,7 +23,7 @@
             .url = "git+https://github.com/opencv/opencv?ref=4.11.0#31b0eeea0b44b370fd0712312df4214d4ae1b158",
             .hash = "N-V-__8AAKGLFQwgIQ-B1jFpXN6TQONXx-BfYXRIxATyH-xQ",
         },
-        .openv_contrib = .{
+        .opencv_contrib = .{
             .url = "git+https://github.com/opencv/opencv_contrib?ref=4.11.0#0e5254ebf54d2aed6e7eaf6660bf3b797cf50a02",
             .hash = "N-V-__8AAGNW8AW7mm9lzl8Pm1dsoChXkjGrMzUJycbZuGVJ",
         },
