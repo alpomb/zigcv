@@ -239,6 +239,6 @@ fn buildOpenCVStep(b: *std.Build) struct {
     return .{
         install_cmd,
         opencv4_build_dir.path(b, "include/opencv4"),
-        opencv4_build_dir.path(b, "lib64"),
+        opencv4_build_dir.path(b, "lib"),
     };
 }
