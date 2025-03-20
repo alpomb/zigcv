@@ -16,16 +16,16 @@
     // internet connectivity.
     .dependencies = .{
         .gocv = .{
-            .url = "git+https://github.com/hybridgroup/gocv#v0.40.0",
-            .hash = "12209e6bc3b59b3d0abd300d0df04b7d8151c8d9d6edf8ea450e3d6589597f9c5d2c",
+            .url = "git+https://github.com/hybridgroup/gocv?ref=v0.40.0#42bf7dc1c9c93822ece24647e68402416b5cbdf6",
+            .hash = "N-V-__8AADWhmwCea8O1mz0KvTANDfBLfYFRyNnW7fjqRQ49",
         },
         .opencv = .{
-            .url = "git+https://github.com/opencv/opencv#4.11.0",
-            .hash = "122020210f81d631695cde9340e357c7e05f617448c404f21fec505ef373f9601784",
+            .url = "git+https://github.com/opencv/opencv?ref=4.11.0#31b0eeea0b44b370fd0712312df4214d4ae1b158",
+            .hash = "N-V-__8AAKGLFQwgIQ-B1jFpXN6TQONXx-BfYXRIxATyH-xQ",
         },
-        .opencv_contrib = .{
-            .url = "git+https://github.com/opencv/opencv_contrib#4.11.0",
-            .hash = "1220bb9a6f65ce5f0f9b576ca028579231ab333509c9c6d9b865492e54abcfe8c460",
+        .openv_contrib = .{
+            .url = "git+https://github.com/opencv/opencv_contrib?ref=4.11.0#0e5254ebf54d2aed6e7eaf6660bf3b797cf50a02",
+            .hash = "N-V-__8AAGNW8AW7mm9lzl8Pm1dsoChXkjGrMzUJycbZuGVJ",
         },
     },
     .paths = .{
